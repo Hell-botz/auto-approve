@@ -46,3 +46,5 @@
 ### 💫 Credits
  - [Dan](https://github.com/delivrance) for pyrogram
  - [Me](https://github.com/ImDenuwan) for Nothing 😅
+
+[![heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hell-botz/auto-approve)
